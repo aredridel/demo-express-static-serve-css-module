@@ -1,0 +1,16 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.12.3",
+    "purecss": "^0.6.0",
+    "serve-static": "^1.9.2"
+  }
+}
